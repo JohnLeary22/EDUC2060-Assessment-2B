@@ -44,6 +44,8 @@ button, a, summary { -webkit-tap-highlight-color: transparent; }
   width: clamp(260px, 28vw, 330px);
   min-width: 250px;
   flex: 0 1 330px;
+  margin-left: 14px;
+  margin-right: auto;
   padding: 5px 8px;
   border: 1px solid var(--line);
   border-radius: 999px;
@@ -352,6 +354,7 @@ body.view-original-work .view-mode-toggle[aria-pressed="true"] {
 .reveal-panel { animation: reveal-softly 200ms ease-out both; }
 
 @media (max-width: 900px) {
+  .narration-player { width: 260px; min-width: 240px; flex-basis: 260px; margin-inline: 0; }
   .method-layout { grid-template-columns: minmax(0, 1fr); }
   .method-aside { min-height: 190px; }
   .change-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -361,7 +364,7 @@ body.view-original-work .view-mode-toggle[aria-pressed="true"] {
   .site-header, .site-footer, .page-shell { width: min(100% - 32px, 1320px); }
   .site-header { min-height: 64px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 10px; padding-block: 10px; }
   .wordmark { grid-column: 1; grid-row: 1; }
-  .narration-player { grid-column: 1 / -1; grid-row: 2; width: min(100%, 330px); min-width: 0; flex: none; justify-self: start; }
+  .narration-player { grid-column: 1 / -1; grid-row: 2; width: min(100%, 330px); min-width: 0; flex: none; margin: 0; justify-self: start; }
   .header-note { grid-column: 1 / -1; grid-row: 3; justify-self: end; line-height: 1.2; }
   .view-mode-toggle { grid-column: 2; grid-row: 1; justify-self: end; }
   .header-note { font-size: .78rem; }
