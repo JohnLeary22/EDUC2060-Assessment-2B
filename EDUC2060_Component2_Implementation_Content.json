@@ -1,0 +1,95 @@
+{
+  "packageVersion": "1.0",
+  "component": 2,
+  "componentName": "Assessment Proposal",
+  "source": "EDUC2060_Component2_Complete_Handover_for_New_Chat.md",
+  "sourceAuthority": "All proposal wording and rubric descriptors in this file are copied from the supplied Component 2 handover. Preserve strings exactly.",
+  "implementationConstraints": {
+    "preserveComponent1": true,
+    "preserveViewOriginalWorkMode": true,
+    "component3Inactive": true,
+    "noNewDependencies": true,
+    "assessmentIsIndividual": true,
+    "noOverallJudgementAfterStep4": true,
+    "diffBaseline": {
+      "step2": "step1",
+      "step3": "step2",
+      "step4": "step3 assessment only; not a new proposal rewrite"
+    },
+    "highlightSemantics": {
+      "step2": { "G": "Relational B refinement", "Y": "Unistructural D safeguard", "X": "general refinement", "null": "unchanged from Step 1" },
+      "step3": { "A": "Extended Abstract A refinement", "F": "Prestructural F safeguard", "X": "general refinement", "null": "unchanged from Step 2" }
+    }
+  },
+  "rubricDescriptors": {
+    "sourceNote": "Presentation labels use letters; these are not an assertion that the university awards letter grades. Descriptor sentences are verbatim.",
+    "bands": [
+      { "key": "A", "label": "Extended Abstract — A", "text": "Creates an authentic, engaging, and appropriately challenging assessment proposal demonstrating sophisticated understanding of assessment. The content is clearly linked to the unit plan, and supported by selected outcomes." },
+      { "key": "B", "label": "Relational — B", "text": "Justifies assessment design and demonstrates alignment between effectively selected outcomes, the content of the unit plan, and assessment principles." },
+      { "key": "C", "label": "Multistructural — C", "text": "Develops a suitable assessment task that would support student engagement with appropriately selected outcomes as linked to the unit content." },
+      { "key": "D", "label": "Unistructural — D", "text": "Proposes an assessment task with limited justification or connection to learning goals." },
+      { "key": "F", "label": "Prestructural — F", "text": "Assessment is unclear, inappropriate, or lacks alignment with outcomes. Or not included in submission." }
+    ]
+  },
+  "outcomes": [
+    { "code": "CO5-ECB-01", "text": "explains economic and business concepts and processes." },
+    { "code": "CO5-DEC-01", "text": "investigates and assesses factors affecting decisions." },
+    { "code": "CO5-PRO-01", "text": "evaluates and applies options for solving problems and addressing issues." },
+    { "code": "CO5-COM-01", "text": "selects and uses a range of information sources and terminology to communicate concepts and ideas." }
+  ],
+  "sourceLabel": "NESA Commerce 7–10, 2024",
+  "stages": {
+    "step1": {
+      "rubricBand": "Multistructural — C",
+      "title": "Component 2 — Assessment Task Proposal",
+      "body": "**Syllabus topic:** The business environment\n\n**Stage and year:** Stage 5, Year 9 Commerce\n\n**Assessment mode:** Individual written business advisory report (approximately 700–900 words)\n\n**Assessed syllabus outcomes (NESA Commerce 7–10, 2024):**\n\n- **CO5-ECB-01:** explains economic and business concepts and processes.\n- **CO5-DEC-01:** investigates and assesses factors affecting decisions.\n- **CO5-PRO-01:** evaluates and applies options for solving problems and addressing issues.\n- **CO5-COM-01:** selects and uses a range of information sources and terminology to communicate concepts and ideas.\n\n**Proposed task: Improving a Small Business**\n\nStudents act as advisers to a hypothetical local café that is experiencing customer-service complaints, staffing difficulties and increasing operating costs. They receive a teacher-prepared case pack containing a business profile, customer feedback, a staffing roster, three applicant summaries, sales information and an outline of a possible AI customer-service or stock-management tool. Students may also draw on evidence gathered during the unit’s local-business site study.\n\nStudents submit an advisory report with three short sections. First, they identify the café’s main performance problem and explain how staffing and service affect its operations. Second, they recommend a suitable employee from the candidate profiles, using the supplied selection criteria. Third, they compare two practical improvements, including whether the café should trial the proposed AI tool, and recommend a course of action using evidence from the case pack.\n\nThe report should explain at least two likely consequences for the café, its employees or customers. Students must use relevant Commerce terminology and refer to information supplied in the case materials. A simple report structure and source checklist will be provided. Students will be assessed on their understanding of business processes, use of evidence, quality of recommendations and clarity of communication.\n\nThe task consolidates the revised recruitment simulation, local-business inquiry and current-issues investigation into one assessment of business decision-making.",
+      "intent": "Suitable C-band starting proposal, not yet a claim of high-band achievement."
+    },
+    "step2": {
+      "rubricReferences": ["Relational — B", "Unistructural — D"],
+      "title": "Component 2 — Assessment Task Proposal",
+      "body": "**Syllabus topic:** The business environment\n\n**Stage/year:** Stage 5, Year 9 Commerce\n\n**Assessment mode:** Individual business advisory report (700–900 words)\n\n**Assessed syllabus outcomes (NESA Commerce 7–10, 2024):**\n\n- **CO5-ECB-01:** explains economic and business concepts and processes.\n- **CO5-DEC-01:** investigates and assesses factors affecting decisions.\n- **CO5-PRO-01:** evaluates and applies options for solving problems and addressing issues.\n- **CO5-COM-01:** selects and uses a range of information sources and terminology to communicate concepts and ideas.\n\n**Proposed task: Improving a Small Business**\n\nStudents act as advisers to a hypothetical local café experiencing customer-service complaints, staffing difficulties and rising operating costs. A common case pack provides a business profile, customer feedback, a staffing roster, three applicant profiles, sales figures and information about a possible AI tool. Students may draw on their local-business site study, but all essential evidence is supplied so participation in the visit does not affect assessment access.\n\nStudents complete three sections:\n\n1. Explain the café's main performance problem, using sales and customer evidence to show how staffing and service affect operations.\n2. Recommend one applicant, comparing at least two candidates against the business's selection criteria and explaining the consequences of the decision.\n3. Compare two responses to the café's challenges, including whether to trial or defer the AI tool, then recommend an option with reference to cost, customer experience and staff.\n\nStudents support recommendations with evidence, acknowledge one limitation of the available information and use appropriate Commerce terminology. A report scaffold, source checklist and short model response communicate expectations without supplying conclusions.\n\nThe task assesses CO5-ECB-01 through explanations of business processes, CO5-DEC-01 through analysis of decision factors, CO5-PRO-01 through evaluation of practical alternatives, and CO5-COM-01 through the evidence-based report. Its individual format makes learning visible; the common case pack supports consistent and fair assessment. It draws directly on the recruitment simulation, site-study inquiry and AI investigation developed in the revised unit.",
+      "revisionRationale": [
+        { "color": "green", "band": "Relational — B", "intent": "Explicit mapping of each selected syllabus outcome to specific observable evidence; more demanding evidence-based candidate and business-option comparisons; direct connection to the three revised unit teaching sequences." },
+        { "color": "yellow", "band": "Unistructural — D", "intent": "Common case pack independent of excursion attendance; a scaffold, source checklist and model response to make learning expectations clear without giving answers." },
+        { "color": "grey", "band": "General", "intent": "More concise three-section instructions, clearer resources and coherence." }
+      ],
+      "diffInstructions": "Compare this body against stages.step1.body only. Apply spans to exact changed phrases, never whole unchanged text. The supplied handover gives color rationale but not exact span offsets; build a text diff and manually verify each colored phrase. Do not invent edit wording."
+    },
+    "step3": {
+      "rubricReferences": ["Extended Abstract — A", "Prestructural — F"],
+      "title": "Component 2 — Assessment Task Proposal",
+      "body": "**Syllabus topic:** The business environment  \n**Stage/year:** Stage 5, Year 9 Commerce  \n**Assessment mode:** Individual business advisory brief (600–750 words)  \n**Audience:** The owner of a hypothetical local café\n\n**Assessed syllabus outcomes (NESA Commerce 7–10, 2024):**\n\n- **CO5-ECB-01:** explains economic and business concepts and processes.\n- **CO5-DEC-01:** investigates and assesses factors affecting decisions.\n- **CO5-PRO-01:** evaluates and applies options for solving problems and addressing issues.\n- **CO5-COM-01:** selects and uses a range of information sources and terminology to communicate concepts and ideas.\n\n**Proposed task: Improving a Small Business**\n\nStudents advise the owner of a café facing customer-service complaints, staff shortages and rising costs. The teacher supplies a common case pack containing a business profile, sales trends, customer feedback, a staffing roster, three applicant profiles, and costed information about a possible AI tool. A fixed improvement budget prevents the café from pursuing every option. Students may apply lessons from their site study, but all essential assessment evidence is supplied.\n\nStudents prepare a brief addressed to the owner with three sections:\n\n1. **Diagnose** the main performance problem using two pieces of evidence and explain its effect on operations.\n2. **Recommend** a candidate for a staffing vacancy, comparing at least two applicants against relevant criteria and acknowledging a trade-off.\n3. **Evaluate** two feasible responses to the café's problems, including whether to trial or defer the AI tool. Recommend an approach within budget, considering costs, customers and staff.\n\nStudents conclude by proposing one observable indicator for reviewing their recommendation and identifying an uncertainty in the evidence.\n\nThe teacher provides a report template, a worked example of evidence-based reasoning and shared success criteria covering evidence, judgement, feasibility and communication, without prescribing a 'correct' recommendation. All students use the same core case pack and submit individually; no site visit or AI software is required.\n\nThe assessment elicits business explanation (CO5-ECB-01), analysis of decision factors (CO5-DEC-01), evaluation of solutions (CO5-PRO-01) and clear evidence-based communication (CO5-COM-01). It integrates learning from the recruitment simulation, site-study inquiry and AI investigation in one authentic, manageable task.",
+      "revisionRationale": [
+        { "color": "blue", "band": "Extended Abstract — A", "intent": "Authentic named audience, business-advisory brief format; plausible fixed budget and costed alternatives; defensible choices and trade-offs; observable indicator to evaluate success; student judgement without predetermined 'correct' option." },
+        { "color": "red", "band": "Prestructural — F", "intent": "Shorten from 700–900 to 600–750 words for Year 9; define task sections and transparent success criteria; common pack, individual submissions and no compulsory excursion/AI tool; avoid unclear or inappropriate demands." },
+        { "color": "grey", "band": "General", "intent": "More concise task phrasing and reordering." }
+      ],
+      "diffInstructions": "Compare this body against stages.step2.body only, never Step 1. Highlight only actual Step 3 modifications: blue for A-band development, red for F-band safeguards, grey for general clarification. Use a word/phrase diff and verify concatenated rendered text equals this exact body."
+    }
+  },
+  "step4": {
+    "heading": "Component 2 · Step 4 — Final review against the A-band criterion",
+    "introduction": "A phrase-by-phrase self-assessment of the final assessment-task proposal against the Extended Abstract descriptor. This evaluates the design, not measured student outcomes or an awarded mark.",
+    "rubricDescriptor": "Creates an authentic, engaging, and appropriately challenging assessment proposal demonstrating sophisticated understanding of assessment. The content is clearly linked to the unit plan, and supported by selected outcomes.",
+    "items": [
+      { "keyword": "Creates", "explanation": "The proposal specifies an assessment students can complete: an individual 600–750-word business advisory brief, with a defined audience, common case pack, three required decisions and transparent success criteria." },
+      { "keyword": "Authentic", "explanation": "Students advise a plausible café owner using sales, customer, staffing and technology information while working within a fixed improvement budget, as a business adviser would." },
+      { "keyword": "Engaging", "explanation": "Students assume a purposeful professional role and select among several credible solutions, rather than simply reproducing definitions or following a single predetermined answer." },
+      { "keyword": "Appropriately challenging", "explanation": "The brief requires evidence-based diagnosis, candidate comparison, consideration of trade-offs, cost-conscious recommendations and acknowledgement of uncertainty without demanding advanced business analysis beyond Year 9." },
+      { "keyword": "Assessment proposal", "explanation": "The audience, mode, length, provided resources, submission sections, individual evidence and success criteria are specified clearly enough to explain how the assessment would operate." },
+      { "keyword": "Sophisticated understanding of assessment", "explanation": "Authentic application, alignment with taught material, consistent access to evidence, individual demonstration of learning and transparent criteria have been deliberately balanced." },
+      { "keyword": "Content", "explanation": "The case pack and requested decisions assess business operations, recruitment, performance, evaluation of alternatives and contemporary AI-related business decisions, not unrelated technological knowledge." },
+      { "keyword": "Clearly linked", "explanation": "Each report section directly assesses learning developed in the redesigned unit: diagnosing business performance through inquiry, selecting employees through recruitment analysis and evaluating contemporary business options." },
+      { "keyword": "Unit plan", "explanation": "The task consolidates the unit's Replacement (hiring simulation), Expansion (local-business inquiry) and Insertion (AI adoption), while retaining the wider business environment context." },
+      { "keyword": "Supported", "explanation": "The teacher's common evidence pack, worked example, report template and shared success criteria support access and demonstrate how students could present their reasoning without giving them the answers." },
+      { "keyword": "Selected outcomes", "explanation": "CO5-ECB-01 is evidenced through business explanation; CO5-DEC-01 through analysis of decision factors; CO5-PRO-01 through evaluation of solutions; and CO5-COM-01 through the evidence-based advisory brief." }
+    ],
+    "closingRule": "End after item 11 with the existing return/close controls. Do not add an Overall Judgement section. This is a reasoned self-assessment, not an awarded grade or claim of measured outcomes."
+  },
+  "step4Interaction": {
+    "reuse": "Existing Component 1 Step 4 modal visual pattern, without editing that modal or its content.",
+    "requirements": ["centred white scrollable panel", "blurred background", "close button", "Escape closes", "backdrop click closes", "focus returns to trigger", "body scrolling blocked while open", "responsive desktop and mobile"],
+    "style": "Pale blue descriptor panel; preserve current View Original Work behavior unchanged. Do not alter the Component 1 modal."
+  }
+}

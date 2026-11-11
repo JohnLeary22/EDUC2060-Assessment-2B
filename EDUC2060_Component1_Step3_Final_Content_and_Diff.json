@@ -1,0 +1,2261 @@
+{
+  "version": "1.0",
+  "stage": "Component 1, Step 3",
+  "rubric": {
+    "extended_abstract": "Three sophisticated changes have been identified in the unit plan, and their implementation would support critical and enlivened engagement with learning experiences.",
+    "prestructural": "Changes are absent, superficial, or unrelated to the unit context. Limited understanding demonstrated. Or not included in submission.",
+    "extended_points": 10,
+    "prestructural_points": 2
+  },
+  "diff_legend": {
+    "A": "Blue — A band (critical AND enlivened engagement)",
+    "F": "Red — lowest-band safeguard (not superficial/unnecessary/unrelated)",
+    "X": "Grey — general clarity edits",
+    "null": "Unchanged Step 2 text"
+  },
+  "changes": {
+    "A1": {
+      "code": "A1",
+      "name": "Recruitment and selection",
+      "type": "Improve a weakness · replace an optional role-play",
+      "original_section": "The role of recruitment and selection in business success",
+      "source": "EDUC2060 Week 11 lecture materials (2026)",
+      "source_note": "Course module; use the Week 11 lecture to support the combination of explicit instruction and guided inquiry. The module supports this teaching approach, not a claim that the original role-play has failed.",
+      "swot": {
+        "W1": {
+          "step2": "W1: Participation may be individual or collaborative, but no shared selection decision or individual accountability is specified. This makes purposeful cooperation difficult to observe and assess.",
+          "step3": "W1 — The optional role-play assigns performance roles, but not responsibilities for reaching a recruitment decision. Defined contributions would make collaborative reasoning more purposeful and assessable.",
+          "count_step2": 26,
+          "count_step3": 25,
+          "segments": [
+            {
+              "text": "The",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "optional role-play assigns",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "performance",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "roles,",
+              "tag": "F"
+            },
+            {
+              "text": " but ",
+              "tag": null
+            },
+            {
+              "text": "not",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "responsibilities for reaching a recruitment decision. Defined contributions would make collaborative reasoning more",
+              "tag": "A"
+            },
+            {
+              "text": " purposeful and ",
+              "tag": null
+            },
+            {
+              "text": "assessable.",
+              "tag": "A"
+            }
+          ]
+        },
+        "W2": {
+          "step2": "W2: The role-play can demonstrate recruitment mistakes without requiring students to compare candidate evidence or defend a choice. Critical evaluation is therefore optional, rather than explicitly demonstrated.",
+          "step3": "W2 — The original scenarios already invite evaluation, yet a script can illustrate an error without comparing defensible hiring options. Evidence-based selection would make judgement more explicit.",
+          "count_step2": 27,
+          "count_step3": 26,
+          "segments": [
+            {
+              "text": "The ",
+              "tag": null
+            },
+            {
+              "text": "original scenarios already invite",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "evaluation, yet a script",
+              "tag": "A"
+            },
+            {
+              "text": " can ",
+              "tag": null
+            },
+            {
+              "text": "illustrate an error",
+              "tag": "A"
+            },
+            {
+              "text": " without ",
+              "tag": null
+            },
+            {
+              "text": "comparing defensible hiring options. Evidence-based selection would make judgement more explicit.",
+              "tag": "A"
+            }
+          ]
+        },
+        "O4": {
+          "step2": "O4: The scaffold organises a performance rather than an investigation. It could guide evidence-based comparison of candidates after teacher modelling, without assuming inquiry happens through acting, within existing time.",
+          "step3": "O4 — The existing script scaffold supports performance preparation. Redirecting it towards evaluating applicants could combine explicit modelling with guided inquiry and a consequential business decision.",
+          "count_step2": 29,
+          "count_step3": 25,
+          "segments": [
+            {
+              "text": "The ",
+              "tag": null
+            },
+            {
+              "text": "existing",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "script",
+              "tag": "A"
+            },
+            {
+              "text": " scaffold ",
+              "tag": null
+            },
+            {
+              "text": "supports performance preparation. Redirecting it towards",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "evaluating applicants could",
+              "tag": "X"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "combine explicit modelling with guided inquiry and",
+              "tag": "A"
+            },
+            {
+              "text": " a ",
+              "tag": null
+            },
+            {
+              "text": "consequential business decision.",
+              "tag": "A"
+            }
+          ]
+        },
+        "T3": {
+          "step2": "T3: Without explicit individual outputs, confident performers may dominate discussion while less vocal students remain peripheral. Unassessed contributions risk being overlooked; independent judgements make learning visible.",
+          "step3": "T3 — Performance roles do not guarantee balanced participation in reasoning. Individual rankings and recommendations would protect quieter students' contributions while retaining the value of panel discussion.",
+          "count_step2": 26,
+          "count_step3": 26,
+          "segments": [
+            {
+              "text": "Performance",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "roles do not",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "guarantee",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "balanced participation",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "in reasoning. Individual rankings and recommendations would protect quieter students' contributions",
+              "tag": "A"
+            },
+            {
+              "text": " while ",
+              "tag": null
+            },
+            {
+              "text": "retaining the value of panel discussion.",
+              "tag": "A"
+            }
+          ]
+        }
+      },
+      "sequence": {
+        "title": "Recruitment and selection decision-making simulation",
+        "step2": "Students become a hiring panel for a café recruiting a supervisor. The teacher supplies a business profile, job description, selection criteria and three anonymised applicants with strengths and limitations. Each presents a plausible trade-off rather than an obvious choice.\n\nThe teacher models how to weigh two competing criteria using an evidence matrix and explains why decisions should be fair and job-related. Students then rank the applicants individually, noting supporting evidence and one uncertainty.\n\nIn groups of four, students take roles as chair, evidence analyst, fairness reviewer and recorder. Each member contributes before a decision is made. The panel compares rankings, agrees on a candidate and explains the expected effects on staffing, service and business performance.\n\nThe teacher introduces a change in circumstances, such as increased weekend demand or reduced staffing funds. Panels revisit their decision and explain which criteria now deserve greater weight, with reasons.\n\nStudents finish with an individual written or recorded recommendation that compares two applicants, defends a trade-off, explains an impact on performance and identifies any change in thinking. The teacher checks these responses and provides targeted feedback. Provide a partly completed matrix, vocabulary prompts or a worked example where needed; assess each student's reasoning, not presentation confidence. Extend students by examining selection bias.",
+        "step3": "Students act as a hiring panel for a café recruiting a supervisor. The teacher supplies a business profile, job-related selection criteria and three anonymised applicants. Each offers credible strengths and limitations, so no candidate is an obvious choice.\n\nThe teacher models an evidence matrix, showing how competing criteria may be weighted according to the café's needs. Students independently rank applicants, identifying evidence and one uncertainty.\n\nIn groups of four, students take the roles of chair, evidence analyst, fairness reviewer and recorder. Each contributes an evidence-based point before the panel selects a candidate. The fairness reviewer checks that judgements are based on relevant criteria rather than assumptions.\n\nThe teacher introduces a change, such as increased weekend demand or a reduced staffing budget. Panels reconsider their choice, explaining whether the new information changes the importance of particular criteria.\n\nEach student submits a short written or recorded recommendation comparing two candidates, defending a trade-off and explaining likely effects on staff capability, service and performance. They state whether their judgement changed and why. The teacher checks individual reasoning and gives targeted feedback.\n\nProvide a worked example, vocabulary prompts and a partially completed matrix as needed. Extend students by examining selection bias. This simulation replaces the existing optional role-play, rather than adding another assessment task.",
+        "count_step2": 207,
+        "count_step3": 210,
+        "segments": [
+          {
+            "text": "Students ",
+            "tag": null
+          },
+          {
+            "text": "act as",
+            "tag": "A"
+          },
+          {
+            "text": " a hiring panel for a café recruiting a supervisor. The teacher supplies a business profile, ",
+            "tag": null
+          },
+          {
+            "text": "job-related",
+            "tag": "A"
+          },
+          {
+            "text": " selection criteria and three anonymised ",
+            "tag": null
+          },
+          {
+            "text": "applicants.",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "Each offers credible",
+            "tag": "X"
+          },
+          {
+            "text": " strengths and ",
+            "tag": null
+          },
+          {
+            "text": "limitations, so no candidate is",
+            "tag": "F"
+          },
+          {
+            "text": " an obvious choice.\n\nThe teacher models ",
+            "tag": null
+          },
+          {
+            "text": "an evidence matrix, showing",
+            "tag": "A"
+          },
+          {
+            "text": " how competing criteria ",
+            "tag": null
+          },
+          {
+            "text": "may",
+            "tag": "A"
+          },
+          {
+            "text": " be ",
+            "tag": null
+          },
+          {
+            "text": "weighted according to the café's needs.",
+            "tag": "A"
+          },
+          {
+            "text": " Students ",
+            "tag": null
+          },
+          {
+            "text": "independently",
+            "tag": "A"
+          },
+          {
+            "text": " rank ",
+            "tag": null
+          },
+          {
+            "text": "applicants, identifying",
+            "tag": "A"
+          },
+          {
+            "text": " evidence and one uncertainty.\n\nIn groups of four, students take ",
+            "tag": null
+          },
+          {
+            "text": "the",
+            "tag": "A"
+          },
+          {
+            "text": " roles ",
+            "tag": null
+          },
+          {
+            "text": "of",
+            "tag": "A"
+          },
+          {
+            "text": " chair, evidence analyst, fairness reviewer and recorder. Each contributes ",
+            "tag": null
+          },
+          {
+            "text": "an evidence-based point",
+            "tag": "A"
+          },
+          {
+            "text": " before ",
+            "tag": null
+          },
+          {
+            "text": "the panel selects",
+            "tag": "A"
+          },
+          {
+            "text": " a ",
+            "tag": null
+          },
+          {
+            "text": "candidate.",
+            "tag": "A"
+          },
+          {
+            "text": " The ",
+            "tag": null
+          },
+          {
+            "text": "fairness reviewer checks that judgements are based",
+            "tag": "A"
+          },
+          {
+            "text": " on ",
+            "tag": null
+          },
+          {
+            "text": "relevant criteria",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "rather",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "than",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "assumptions.",
+            "tag": "F"
+          },
+          {
+            "text": "\n\nThe teacher introduces a ",
+            "tag": null
+          },
+          {
+            "text": "change,",
+            "tag": "X"
+          },
+          {
+            "text": " such as increased weekend demand or ",
+            "tag": null
+          },
+          {
+            "text": "a",
+            "tag": "A"
+          },
+          {
+            "text": " reduced staffing ",
+            "tag": null
+          },
+          {
+            "text": "budget.",
+            "tag": "A"
+          },
+          {
+            "text": " Panels ",
+            "tag": null
+          },
+          {
+            "text": "reconsider",
+            "tag": "A"
+          },
+          {
+            "text": " their ",
+            "tag": null
+          },
+          {
+            "text": "choice, explaining whether",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "the new information",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "changes the importance of particular criteria.\n\nEach student submits a short",
+            "tag": "A"
+          },
+          {
+            "text": " written or recorded recommendation ",
+            "tag": null
+          },
+          {
+            "text": "comparing",
+            "tag": "A"
+          },
+          {
+            "text": " two ",
+            "tag": null
+          },
+          {
+            "text": "candidates, defending",
+            "tag": "A"
+          },
+          {
+            "text": " a ",
+            "tag": null
+          },
+          {
+            "text": "trade-off and explaining likely effects",
+            "tag": "A"
+          },
+          {
+            "text": " on ",
+            "tag": null
+          },
+          {
+            "text": "staff capability, service",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "performance. They state whether their judgement changed and why.",
+            "tag": "A"
+          },
+          {
+            "text": " The teacher checks ",
+            "tag": null
+          },
+          {
+            "text": "individual reasoning",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "gives",
+            "tag": "A"
+          },
+          {
+            "text": " targeted feedback.\n\nProvide a ",
+            "tag": null
+          },
+          {
+            "text": "worked example,",
+            "tag": "X"
+          },
+          {
+            "text": " vocabulary prompts ",
+            "tag": null
+          },
+          {
+            "text": "and",
+            "tag": "X"
+          },
+          {
+            "text": " a ",
+            "tag": null
+          },
+          {
+            "text": "partially",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "completed matrix as needed.",
+            "tag": "A"
+          },
+          {
+            "text": " Extend students by examining selection bias. ",
+            "tag": null
+          },
+          {
+            "text": "This simulation replaces the existing optional role-play, rather than adding another",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "assessment task.",
+            "tag": "A"
+          }
+        ]
+      },
+      "justification": {
+        "step2": "This changes the purpose of the follow-up task from illustrating a recruitment problem to making a justified choice between credible alternatives. The Week 11 EDUC2060 module advocates combining explicit teaching with inquiry, rather than treating them as alternatives. A modelled decision matrix gives students an entry point, while the hiring panel creates a reason to debate the relative weight of competing evidence. Defined roles and an individual recommendation make participation and learning assessable, addressing W1 and T3; the revised business constraint deepens W2 by making students reconsider their criteria. The activity retains the business-performance focus and replaces rather than adds to the original tasks.",
+        "step3": "The original cases already invite evaluation; this revision strengthens the optional follow-up rather than replacing useful content. The EDUC2060 Week 11 module supports combining explicit teaching with guided inquiry. Modelling the matrix prepares students to evaluate competing criteria, while the panel and changed circumstances make decisions authentic and intellectually demanding. Reconsidering a defensible choice develops critical reasoning; taking responsibility for a business decision makes the activity engaging. Individual recommendations provide assessable evidence rather than rewarding performance confidence. Job-related criteria guard against arbitrary selection, and replacing the existing role-play maintains the unit's recruitment and business-performance focus without adding unnecessary workload.",
+        "count_step2": 104,
+        "count_step3": 99,
+        "segments": [
+          {
+            "text": "The original",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "cases",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "already",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "invite evaluation; this revision strengthens",
+            "tag": "A"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "optional",
+            "tag": "F"
+          },
+          {
+            "text": " follow-up ",
+            "tag": null
+          },
+          {
+            "text": "rather than replacing useful content.",
+            "tag": "F"
+          },
+          {
+            "text": " The ",
+            "tag": null
+          },
+          {
+            "text": "EDUC2060",
+            "tag": "F"
+          },
+          {
+            "text": " Week 11 module ",
+            "tag": null
+          },
+          {
+            "text": "supports",
+            "tag": "X"
+          },
+          {
+            "text": " combining explicit teaching with ",
+            "tag": null
+          },
+          {
+            "text": "guided inquiry. Modelling the matrix prepares students to evaluate competing criteria, while the panel and changed circumstances make decisions authentic and intellectually demanding. Reconsidering a defensible choice develops critical reasoning; taking responsibility for a business decision makes the activity engaging. Individual recommendations provide assessable evidence",
+            "tag": "A"
+          },
+          {
+            "text": " rather than ",
+            "tag": null
+          },
+          {
+            "text": "rewarding performance confidence. Job-related criteria guard against arbitrary selection,",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "and replacing",
+            "tag": "F"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "existing role-play",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "maintains",
+            "tag": "A"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "unit's recruitment",
+            "tag": "A"
+          },
+          {
+            "text": " and business-performance focus ",
+            "tag": null
+          },
+          {
+            "text": "without",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "adding",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "unnecessary workload.",
+            "tag": "F"
+          }
+        ]
+      },
+      "anchors": [
+        [
+          "W1",
+          "“Working individually or in groups” and “peer discussion exercise”",
+          "Undefined decision-making roles, not the absence of performance roles."
+        ],
+        [
+          "W2",
+          "“develop a role-play that illustrates one or more of the scenarios” and “develop a script”",
+          "A scenario can be illustrated without a defended selection among alternatives."
+        ],
+        [
+          "O4",
+          "“planning template that includes roles, setting, dialogue, problem and consequences”",
+          "An existing scaffold could support guided inquiry instead of performance planning."
+        ],
+        [
+          "T3",
+          "“They could be given the opportunity to perform a role-play” and “peer discussion exercise”",
+          "No explicit individual evidence of reasoning in these optional follow-ups."
+        ]
+      ],
+      "reasoning": {
+        "A": "More consequential choice; fairness reviewer tests relevant evidence; students defend trade-offs and reconsider criteria.",
+        "F": "Acknowledges pre-existing case-study evaluation and clarifies this replaces the optional role-play, not a whole new assessment."
+      }
+    },
+    "B1": {
+      "code": "B1",
+      "name": "Local-business site study",
+      "type": "Expand a strength · insert a focused inquiry sequence",
+      "original_section": "Site study: a visit to and investigation of a local small business",
+      "source": "Jaye Dunn (2025), “Unlocking Curiosity: The power of inquiry-based learning in Geography”, pp. 32–35",
+      "source_note": "Assigned Geography reading applied to Commerce: use cautiously to justify scaffolded questioning, evidence evaluation, communication and reflection, not to claim the reading evaluates this particular Commerce unit.",
+      "swot": {
+        "S2": {
+          "step2": "S2: The site study is already an authentic strength. A focused, student-generated inquiry question would make observations and interviews more purposeful, without replacing the existing real-world experience.",
+          "step3": "S2 — The visit already connects students with real business practices. A student-generated performance question would give observations and interviews a clearer investigative purpose without displacing this strength.",
+          "count_step2": 27,
+          "count_step3": 27,
+          "segments": [
+            {
+              "text": "The ",
+              "tag": null
+            },
+            {
+              "text": "visit",
+              "tag": "A"
+            },
+            {
+              "text": " already ",
+              "tag": null
+            },
+            {
+              "text": "connects students with real business practices.",
+              "tag": "A"
+            },
+            {
+              "text": " A student-generated ",
+              "tag": null
+            },
+            {
+              "text": "performance",
+              "tag": "A"
+            },
+            {
+              "text": " question would ",
+              "tag": null
+            },
+            {
+              "text": "give",
+              "tag": "A"
+            },
+            {
+              "text": " observations and interviews ",
+              "tag": null
+            },
+            {
+              "text": "a clearer investigative purpose",
+              "tag": "F"
+            },
+            {
+              "text": " without ",
+              "tag": null
+            },
+            {
+              "text": "displacing this strength.",
+              "tag": "F"
+            }
+          ]
+        },
+        "S4": {
+          "step2": "S4: The unit already encourages assessment and refinement. Requiring students to act on one evidence-focused comment would make improvement visible, rather than assuming feedback produces revision, within the existing report.",
+          "step3": "S4 — Self-assessment, peer assessment and feedback are already provided. Requiring one evidenced revision would demonstrate how students use feedback, rather than assuming that its availability improves learning.",
+          "count_step2": 30,
+          "count_step3": 27,
+          "segments": [
+            {
+              "text": "Self-assessment, peer",
+              "tag": "A"
+            },
+            {
+              "text": " assessment and ",
+              "tag": null
+            },
+            {
+              "text": "feedback are",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "already",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "provided.",
+              "tag": "A"
+            },
+            {
+              "text": " Requiring ",
+              "tag": null
+            },
+            {
+              "text": "one evidenced revision would demonstrate how",
+              "tag": "A"
+            },
+            {
+              "text": " students ",
+              "tag": null
+            },
+            {
+              "text": "use feedback,",
+              "tag": "A"
+            },
+            {
+              "text": " rather than assuming ",
+              "tag": null
+            },
+            {
+              "text": "that its",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "availability improves learning.",
+              "tag": "A"
+            }
+          ]
+        },
+        "W3": {
+          "step2": "W3: This acknowledges different access needs but leaves equivalent assessment expectations unclear. A shared question and evidence framework could support alternative participation routes without lowering analytical demand.",
+          "step3": "W3 — The adjustment note recognises differing needs, but does not specify a comparable inquiry process. Shared questions and criteria could maintain challenge across different participation arrangements.",
+          "count_step2": 27,
+          "count_step3": 26,
+          "segments": [
+            {
+              "text": "The adjustment note recognises differing needs,",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "but does",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "not",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "specify a comparable inquiry process. Shared questions and criteria could maintain challenge across",
+              "tag": "A"
+            },
+            {
+              "text": " different participation ",
+              "tag": null
+            },
+            {
+              "text": "arrangements.",
+              "tag": "X"
+            }
+          ]
+        },
+        "T2": {
+          "step2": "T2: An invited speaker is a useful contingency, but may offer less observable evidence than a visit. A matched case pack would support comparable inquiry, not identical experiences.",
+          "step3": "T2 — An invited speaker is a valuable alternative, but may provide less observable evidence than a visit. A matched case pack could support comparable analysis, not identical experiences.",
+          "count_step2": 28,
+          "count_step3": 28,
+          "segments": [
+            {
+              "text": "An invited speaker is a ",
+              "tag": null
+            },
+            {
+              "text": "valuable alternative,",
+              "tag": "A"
+            },
+            {
+              "text": " but may ",
+              "tag": null
+            },
+            {
+              "text": "provide",
+              "tag": "A"
+            },
+            {
+              "text": " less observable evidence than a visit. A matched case pack ",
+              "tag": null
+            },
+            {
+              "text": "could",
+              "tag": "A"
+            },
+            {
+              "text": " support comparable ",
+              "tag": null
+            },
+            {
+              "text": "analysis,",
+              "tag": "A"
+            },
+            {
+              "text": " not identical experiences.",
+              "tag": null
+            }
+          ]
+        }
+      },
+      "sequence": {
+        "title": "Additional inquiry sequence for the local-business site study",
+        "step2": "Before the visit, students choose a focused, answerable business-performance question, such as customer demand, staffing or competition. The teacher models an investigable question using observations, interviews and public information. Students create an evidence planner identifying questions, sources and possible limitations.\n\nDuring the visit, students record observations separately from statements made by the owner or manager. They ask agreed questions, note any missing evidence and respect confidential business information. The teacher uses a shared checklist to prompt comparison between sources, not just completion of notes.\n\nAfterwards, students use this evidence within the existing report to recommend one realistic improvement. They explain the likely benefits, costs and potential effect on at least one stakeholder, and justify their recommendation against one alternative, identifying a limitation in their evidence.\n\nBefore final submission, students exchange draft recommendations and receive one targeted teacher or peer question about evidence or reasoning. They then use that question to strengthen one claim and add two sentences explaining what evidence or judgement changed.\n\nStudents unable to attend use a comparable teacher-prepared case pack, business photographs, interview transcript and public-source extract. All students investigate comparable inquiry questions and are assessed against the same learning criteria. Sentence starters, visual planners and extension prompts can be provided as needed. This refines the existing report rather than creating a second product.",
+        "step3": "Build on the existing local-business site study by giving students responsibility for one focused question about business performance, such as how staffing affects customer service. Before the visit, the teacher models how to turn a broad topic into an investigable question. Students identify evidence they could obtain through observation, interviews and public sources.\n\nDuring the visit, students use a two-column record to distinguish what they observe from what the owner or manager reports. They ask agreed questions, note gaps or contradictions and respect commercial confidentiality. Teacher prompts guide comparison of at least two sources, rather than note-taking alone.\n\nStudents use the evidence in the existing report to recommend one feasible business improvement. They explain likely benefits and costs, consider a stakeholder affected by the decision and justify their proposal against one alternative. They acknowledge one limitation of the evidence.\n\nBefore submission, students exchange draft recommendations and respond to one targeted question about the strength of their evidence. Each then revises one claim and briefly explains the change.\n\nStudents unable to attend may use an interview, photographs and a teacher-prepared case pack containing comparable sources. All follow the same inquiry question structure and assessment expectations. Provide sentence starters or extension prompts where appropriate. This deepens the original report; it does not create a second task.",
+        "count_step2": 217,
+        "count_step3": 214,
+        "segments": [
+          {
+            "text": "Build on the",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "existing",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "local-business site study by giving students responsibility for one focused question about business performance, such as how staffing",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "affects customer service.",
+            "tag": "X"
+          },
+          {
+            "text": " Before the visit, ",
+            "tag": null
+          },
+          {
+            "text": "the",
+            "tag": "X"
+          },
+          {
+            "text": " teacher models ",
+            "tag": null
+          },
+          {
+            "text": "how to turn a",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "broad topic into",
+            "tag": "A"
+          },
+          {
+            "text": " an investigable ",
+            "tag": null
+          },
+          {
+            "text": "question. Students identify evidence they could obtain through observation,",
+            "tag": "A"
+          },
+          {
+            "text": " interviews and public ",
+            "tag": null
+          },
+          {
+            "text": "sources.",
+            "tag": "A"
+          },
+          {
+            "text": "\n\nDuring the visit, students ",
+            "tag": null
+          },
+          {
+            "text": "use a two-column",
+            "tag": "A"
+          },
+          {
+            "text": " record ",
+            "tag": null
+          },
+          {
+            "text": "to distinguish what they observe",
+            "tag": "X"
+          },
+          {
+            "text": " from ",
+            "tag": null
+          },
+          {
+            "text": "what",
+            "tag": "X"
+          },
+          {
+            "text": " the owner or ",
+            "tag": null
+          },
+          {
+            "text": "manager reports.",
+            "tag": "A"
+          },
+          {
+            "text": " They ask agreed questions, note ",
+            "tag": null
+          },
+          {
+            "text": "gaps or contradictions",
+            "tag": "A"
+          },
+          {
+            "text": " and respect ",
+            "tag": null
+          },
+          {
+            "text": "commercial",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "confidentiality.",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "Teacher prompts guide",
+            "tag": "A"
+          },
+          {
+            "text": " comparison ",
+            "tag": null
+          },
+          {
+            "text": "of at least two",
+            "tag": "A"
+          },
+          {
+            "text": " sources, ",
+            "tag": null
+          },
+          {
+            "text": "rather",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "than",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "note-taking",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "alone.\n\nStudents",
+            "tag": "A"
+          },
+          {
+            "text": " use ",
+            "tag": null
+          },
+          {
+            "text": "the",
+            "tag": "A"
+          },
+          {
+            "text": " evidence ",
+            "tag": null
+          },
+          {
+            "text": "in",
+            "tag": "A"
+          },
+          {
+            "text": " the existing report to recommend one ",
+            "tag": null
+          },
+          {
+            "text": "feasible business",
+            "tag": "A"
+          },
+          {
+            "text": " improvement. They explain ",
+            "tag": null
+          },
+          {
+            "text": "likely benefits and costs, consider a stakeholder affected by",
+            "tag": "A"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "decision",
+            "tag": "A"
+          },
+          {
+            "text": " and justify their ",
+            "tag": null
+          },
+          {
+            "text": "proposal",
+            "tag": "A"
+          },
+          {
+            "text": " against one ",
+            "tag": null
+          },
+          {
+            "text": "alternative. They acknowledge one",
+            "tag": "A"
+          },
+          {
+            "text": " limitation ",
+            "tag": null
+          },
+          {
+            "text": "of the",
+            "tag": "A"
+          },
+          {
+            "text": " evidence.\n\nBefore submission, students exchange draft recommendations and ",
+            "tag": null
+          },
+          {
+            "text": "respond to",
+            "tag": "A"
+          },
+          {
+            "text": " one targeted question about ",
+            "tag": null
+          },
+          {
+            "text": "the strength of their evidence. Each",
+            "tag": "A"
+          },
+          {
+            "text": " then ",
+            "tag": null
+          },
+          {
+            "text": "revises",
+            "tag": "A"
+          },
+          {
+            "text": " one claim and ",
+            "tag": null
+          },
+          {
+            "text": "briefly explains the change.",
+            "tag": "A"
+          },
+          {
+            "text": "\n\nStudents unable to attend ",
+            "tag": null
+          },
+          {
+            "text": "may",
+            "tag": "A"
+          },
+          {
+            "text": " use ",
+            "tag": null
+          },
+          {
+            "text": "an interview, photographs and",
+            "tag": "X"
+          },
+          {
+            "text": " a teacher-prepared case ",
+            "tag": null
+          },
+          {
+            "text": "pack containing comparable sources.",
+            "tag": "A"
+          },
+          {
+            "text": " All ",
+            "tag": null
+          },
+          {
+            "text": "follow",
+            "tag": "A"
+          },
+          {
+            "text": " the same ",
+            "tag": null
+          },
+          {
+            "text": "inquiry question structure",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "assessment expectations. Provide sentence starters",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "or",
+            "tag": "X"
+          },
+          {
+            "text": " extension prompts ",
+            "tag": null
+          },
+          {
+            "text": "where appropriate.",
+            "tag": "F"
+          },
+          {
+            "text": " This ",
+            "tag": null
+          },
+          {
+            "text": "deepens",
+            "tag": "F"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "original report; it does not create",
+            "tag": "F"
+          },
+          {
+            "text": " a second ",
+            "tag": null
+          },
+          {
+            "text": "task.",
+            "tag": "F"
+          }
+        ]
+      },
+      "justification": {
+        "step2": "This addition builds on an activity NESA does well, rather than claiming the original lacks fieldwork, feedback or accessible alternatives. Dunn (2025, pp. 32–35) describes inquiry through focused questioning, interpreting different forms of evidence, and communicating reasoned conclusions, with teacher guidance adjusted to students' needs. Applying that sequence to Commerce gives the visit a clearer investigative purpose. Testing an owner's account against observation encourages source evaluation, while a feasible recommendation requires students to use rather than merely report findings. A comparable case pack preserves equivalent expectations across participation routes, and required evidence-based revision makes the unit's existing feedback more observable without duplicating assessment work.",
+        "step3": "This expands a genuine strength rather than implying the original unit lacks fieldwork, feedback or alternatives. Dunn (2025, pp. 32–35) describes inquiry as building on explicit teaching through questioning, collecting and evaluating evidence, communicating conclusions and reflection. The student-generated question gives the visit purpose and ownership; comparing observations with owner statements promotes critical source evaluation. Recommending an improvement against an alternative converts findings into business judgement. One required revision makes existing feedback observable without introducing another product. Comparable evidence packs preserve the intended analytical demand for students who cannot visit, avoiding a superficial or inequitable addition.",
+        "count_step2": 105,
+        "count_step3": 97,
+        "segments": [
+          {
+            "text": "This ",
+            "tag": null
+          },
+          {
+            "text": "expands a genuine strength",
+            "tag": "F"
+          },
+          {
+            "text": " rather than ",
+            "tag": null
+          },
+          {
+            "text": "implying",
+            "tag": "F"
+          },
+          {
+            "text": " the original ",
+            "tag": null
+          },
+          {
+            "text": "unit",
+            "tag": "A"
+          },
+          {
+            "text": " lacks fieldwork, feedback or alternatives. Dunn (2025, pp. 32–35) describes inquiry ",
+            "tag": null
+          },
+          {
+            "text": "as building on explicit teaching",
+            "tag": "A"
+          },
+          {
+            "text": " through questioning, ",
+            "tag": null
+          },
+          {
+            "text": "collecting and evaluating",
+            "tag": "A"
+          },
+          {
+            "text": " evidence, ",
+            "tag": null
+          },
+          {
+            "text": "communicating conclusions",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "reflection. The student-generated question",
+            "tag": "A"
+          },
+          {
+            "text": " gives the visit ",
+            "tag": null
+          },
+          {
+            "text": "purpose and ownership; comparing observations with owner statements promotes critical source evaluation. Recommending",
+            "tag": "A"
+          },
+          {
+            "text": " an ",
+            "tag": null
+          },
+          {
+            "text": "improvement",
+            "tag": "A"
+          },
+          {
+            "text": " against ",
+            "tag": null
+          },
+          {
+            "text": "an alternative converts findings into business judgement. One",
+            "tag": "A"
+          },
+          {
+            "text": " required revision makes existing feedback observable without ",
+            "tag": null
+          },
+          {
+            "text": "introducing another",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "product. Comparable evidence packs preserve the intended analytical demand",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "for",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "students",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "who cannot visit, avoiding a superficial or inequitable addition.",
+            "tag": "F"
+          }
+        ]
+      },
+      "anchors": [
+        [
+          "S2",
+          "“Students engage in a site study of a local small business to explore real-world applications of business concepts and skills”",
+          "Existing authenticity to extend; do not describe the visit as absent."
+        ],
+        [
+          "S4",
+          "Original self-assessment, peer assessment and feedback provision",
+          "Feedback already present; improvement lies in specified student response."
+        ],
+        [
+          "W3",
+          "“Note: some students may require adjustments to engage in the site study”",
+          "Specific equivalent inquiry design can strengthen broad adjustment advice."
+        ],
+        [
+          "T2",
+          "“If a site visit is not possible, the teacher may invite an entrepreneur to speak in person or online”",
+          "Alternative access is present; a case pack improves comparability of evidence."
+        ]
+      ],
+      "reasoning": {
+        "A": "Student-owned performance question, explicit distinction between observation and reported claims, alternative defended with evidence.",
+        "F": "Builds within existing report, protects commercial confidentiality, and specifies equivalent evidence for non-attenders."
+      }
+    },
+    "C1": {
+      "code": "C1",
+      "name": "AI adoption and responsible business decisions",
+      "type": "Fill a genuine gap · add an AI decision option within current issues",
+      "original_section": "Current issues",
+      "source": "Australian Bureau of Statistics (2026), Characteristics of Australian Business, 2024–25",
+      "source_note": "Official ABS release (25 June 2026), reference period 2024–25; 12% of businesses reported use of AI and retail trade was 9%. Uptake is not evidence of success. https://www.abs.gov.au/statistics/industry/technology-and-innovation/characteristics-australian-business/2024-25",
+      "swot": {
+        "W5": {
+          "step2": "W5: The list acknowledges digital change, including cybersecurity and influencers, but does not develop a decision about adopting AI. A focused option adds depth without claiming technology is absent.",
+          "step3": "W5 — Current issues already include cybersecurity and influencer entrepreneurship, but no developed inquiry into adopting AI. A bounded business decision would add depth without misrepresenting existing content.",
+          "count_step2": 29,
+          "count_step3": 27,
+          "segments": [
+            {
+              "text": "Current issues already include",
+              "tag": "F"
+            },
+            {
+              "text": " cybersecurity and ",
+              "tag": null
+            },
+            {
+              "text": "influencer",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "entrepreneurship,",
+              "tag": "A"
+            },
+            {
+              "text": " but ",
+              "tag": null
+            },
+            {
+              "text": "no developed inquiry into",
+              "tag": "A"
+            },
+            {
+              "text": " adopting AI. A ",
+              "tag": null
+            },
+            {
+              "text": "bounded business decision would add",
+              "tag": "A"
+            },
+            {
+              "text": " depth without ",
+              "tag": null
+            },
+            {
+              "text": "misrepresenting existing content.",
+              "tag": "F"
+            }
+          ]
+        },
+        "O1": {
+          "step2": "O1: This invites credible research, but does not require students to interpret a dated business statistic and its limits. An ABS extract would strengthen evidence-led judgement without implying causation.",
+          "step3": "O1 — Students can research contemporary issues, but evidence appraisal is not explicit. Comparing dated ABS national and industry figures would develop statistical judgement without treating uptake as success.",
+          "count_step2": 29,
+          "count_step3": 28,
+          "segments": [
+            {
+              "text": "Students can research contemporary issues,",
+              "tag": "A"
+            },
+            {
+              "text": " but ",
+              "tag": null
+            },
+            {
+              "text": "evidence appraisal is",
+              "tag": "A"
+            },
+            {
+              "text": " not ",
+              "tag": null
+            },
+            {
+              "text": "explicit. Comparing",
+              "tag": "A"
+            },
+            {
+              "text": " dated ",
+              "tag": null
+            },
+            {
+              "text": "ABS national",
+              "tag": "A"
+            },
+            {
+              "text": " and ",
+              "tag": null
+            },
+            {
+              "text": "industry figures",
+              "tag": "A"
+            },
+            {
+              "text": " would ",
+              "tag": null
+            },
+            {
+              "text": "develop statistical",
+              "tag": "A"
+            },
+            {
+              "text": " judgement without ",
+              "tag": null
+            },
+            {
+              "text": "treating uptake as",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "success.",
+              "tag": "F"
+            }
+          ]
+        },
+        "O2": {
+          "step2": "O2: The general inquiry question could become a choice between realistic AI strategies. Comparing options would expose cost and service trade-offs, including risks for workers and customers.",
+          "step3": "O2 — The current-issues questions invite digital exploration, yet do not require comparison of AI strategies. A structured choice would expose costs, operational benefits and stakeholder risks.",
+          "count_step2": 27,
+          "count_step3": 26,
+          "segments": [
+            {
+              "text": "The ",
+              "tag": null
+            },
+            {
+              "text": "current-issues questions",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "invite digital",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "exploration, yet",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "do not require",
+              "tag": "F"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "comparison",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "of",
+              "tag": "F"
+            },
+            {
+              "text": " AI strategies. ",
+              "tag": null
+            },
+            {
+              "text": "A",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "structured",
+              "tag": "X"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "choice",
+              "tag": "A"
+            },
+            {
+              "text": " would expose ",
+              "tag": null
+            },
+            {
+              "text": "costs, operational benefits",
+              "tag": "A"
+            },
+            {
+              "text": " and ",
+              "tag": null
+            },
+            {
+              "text": "stakeholder risks.",
+              "tag": "A"
+            }
+          ]
+        },
+        "T4": {
+          "step2": "T4: Rapid changes in AI use and regulation make generic examples vulnerable to becoming outdated. Unqualified claims could mislead students; dated evidence and regular teacher review are needed.",
+          "step3": "T4 — AI practices change quickly, so undated or unqualified claims may become misleading. Teacher-reviewed sources and dated statistics would keep the investigation current and appropriately cautious.",
+          "count_step2": 28,
+          "count_step3": 26,
+          "segments": [
+            {
+              "text": "AI ",
+              "tag": null
+            },
+            {
+              "text": "practices change quickly, so undated or",
+              "tag": "X"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "unqualified claims may become misleading. Teacher-reviewed sources",
+              "tag": "A"
+            },
+            {
+              "text": " and dated ",
+              "tag": null
+            },
+            {
+              "text": "statistics would",
+              "tag": "A"
+            },
+            {
+              "text": " ",
+              "tag": null
+            },
+            {
+              "text": "keep the investigation current",
+              "tag": "X"
+            },
+            {
+              "text": " and ",
+              "tag": null
+            },
+            {
+              "text": "appropriately cautious.",
+              "tag": "X"
+            }
+          ]
+        }
+      },
+      "sequence": {
+        "title": "Current issue: Should a small business adopt AI?",
+        "step2": "Students investigate a small business considering AI for customer enquiries or stock. The teacher explains the tool, its limits and why adoption is not automatically beneficial.\n\nStudents examine an ABS extract showing that 12% of Australian businesses reported using AI in 2024–25 (ABS, 2026). The teacher identifies the source, date and population, and models how to distinguish uptake from proven effectiveness. Students compare this statistical evidence with the business profile and a simple estimate of costs and staff time.\n\nWorking in pairs, students assess three options: adopt immediately, run a limited trial with human oversight, or defer adoption. They rank the options against stated business priorities and weigh potential improvements in speed and service against implementation costs, privacy, errors, staff training and possible effects on jobs. They identify which stakeholders could benefit or lose out.\n\nStudents individually recommend an option in a short decision memo, supporting it with the business facts and at least one sourced statistic. They explain why a rejected option is less suitable and identify missing evidence and a condition that would alter their recommendation.\n\nThe teacher provides curated, dated sources and a printable evidence pack. Students evaluate supplied evidence without using an AI tool or disclosing personal data. This option uses the existing current-issues time allocation; data and case details are reviewed before future delivery.",
+        "step3": "Within the existing current-issues section, students advise a small retail business considering AI to respond to customer enquiries or support stock decisions. The teacher provides a realistic business profile with staffing constraints, costs, customer expectations and privacy considerations, explaining that AI adoption is not automatically beneficial.\n\nStudents examine ABS figures showing that 12% of Australian businesses, but 9% of retail businesses, reported using AI in 2024–25 (ABS, 2026). The teacher models how to interpret the source, compare populations and distinguish adoption from evidence of improved performance.\n\nWorking in pairs as business advisers, students assess three options: adopt now, conduct a limited trial with human oversight, or defer. They weigh likely effects on service, staffing, cost, errors and customer trust, then identify one benefit and one risk for affected stakeholders.\n\nEach student prepares a brief decision memo recommending an option, rejecting an alternative using evidence and specifying what further information would help. If recommending a trial, they identify a measurable success indicator; if deferring, they explain what would justify reconsideration.\n\nThe teacher provides dated sources, a printable evidence pack and guidance on evaluating claims. Students need not use an AI system or share personal information. This investigation replaces an optional current-issues example rather than extending the unit.",
+        "count_step2": 220,
+        "count_step3": 207,
+        "segments": [
+          {
+            "text": "Within the",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "existing",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "current-issues section, students advise",
+            "tag": "A"
+          },
+          {
+            "text": " a small ",
+            "tag": null
+          },
+          {
+            "text": "retail",
+            "tag": "A"
+          },
+          {
+            "text": " business considering AI ",
+            "tag": null
+          },
+          {
+            "text": "to respond to",
+            "tag": "A"
+          },
+          {
+            "text": " customer enquiries or ",
+            "tag": null
+          },
+          {
+            "text": "support stock decisions.",
+            "tag": "A"
+          },
+          {
+            "text": " The teacher ",
+            "tag": null
+          },
+          {
+            "text": "provides a realistic business profile with staffing constraints, costs, customer expectations",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "privacy considerations, explaining that AI",
+            "tag": "A"
+          },
+          {
+            "text": " adoption is not automatically beneficial.\n\nStudents examine ABS ",
+            "tag": null
+          },
+          {
+            "text": "figures",
+            "tag": "A"
+          },
+          {
+            "text": " showing that 12% of Australian ",
+            "tag": null
+          },
+          {
+            "text": "businesses, but 9% of retail businesses,",
+            "tag": "A"
+          },
+          {
+            "text": " reported using AI in 2024–25 (ABS, 2026). The teacher models how to ",
+            "tag": null
+          },
+          {
+            "text": "interpret the source, compare populations and",
+            "tag": "A"
+          },
+          {
+            "text": " distinguish ",
+            "tag": null
+          },
+          {
+            "text": "adoption",
+            "tag": "A"
+          },
+          {
+            "text": " from evidence of ",
+            "tag": null
+          },
+          {
+            "text": "improved performance.",
+            "tag": "A"
+          },
+          {
+            "text": "\n\nWorking in ",
+            "tag": null
+          },
+          {
+            "text": "pairs as business advisers,",
+            "tag": "A"
+          },
+          {
+            "text": " students assess three options: adopt ",
+            "tag": null
+          },
+          {
+            "text": "now,",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "conduct",
+            "tag": "F"
+          },
+          {
+            "text": " a limited trial with human oversight, or ",
+            "tag": null
+          },
+          {
+            "text": "defer.",
+            "tag": "A"
+          },
+          {
+            "text": " They weigh ",
+            "tag": null
+          },
+          {
+            "text": "likely",
+            "tag": "A"
+          },
+          {
+            "text": " effects on ",
+            "tag": null
+          },
+          {
+            "text": "service,",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "staffing, cost, errors and",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "customer trust, then",
+            "tag": "A"
+          },
+          {
+            "text": " identify ",
+            "tag": null
+          },
+          {
+            "text": "one",
+            "tag": "A"
+          },
+          {
+            "text": " benefit ",
+            "tag": null
+          },
+          {
+            "text": "and one risk for affected stakeholders.\n\nEach student prepares a brief decision memo recommending",
+            "tag": "A"
+          },
+          {
+            "text": " an ",
+            "tag": null
+          },
+          {
+            "text": "option, rejecting an alternative using",
+            "tag": "A"
+          },
+          {
+            "text": " evidence and ",
+            "tag": null
+          },
+          {
+            "text": "specifying what further information would help. If recommending",
+            "tag": "A"
+          },
+          {
+            "text": " a ",
+            "tag": null
+          },
+          {
+            "text": "trial, they identify",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "a measurable success indicator; if",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "deferring, they explain what",
+            "tag": "A"
+          },
+          {
+            "text": " would ",
+            "tag": null
+          },
+          {
+            "text": "justify reconsideration.",
+            "tag": "A"
+          },
+          {
+            "text": "\n\nThe teacher provides dated ",
+            "tag": null
+          },
+          {
+            "text": "sources,",
+            "tag": "A"
+          },
+          {
+            "text": " a printable evidence ",
+            "tag": null
+          },
+          {
+            "text": "pack and guidance on evaluating claims.",
+            "tag": "A"
+          },
+          {
+            "text": " Students ",
+            "tag": null
+          },
+          {
+            "text": "need",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "not",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "use",
+            "tag": "A"
+          },
+          {
+            "text": " an AI ",
+            "tag": null
+          },
+          {
+            "text": "system",
+            "tag": "F"
+          },
+          {
+            "text": " or ",
+            "tag": null
+          },
+          {
+            "text": "share",
+            "tag": "F"
+          },
+          {
+            "text": " personal ",
+            "tag": null
+          },
+          {
+            "text": "information.",
+            "tag": "F"
+          },
+          {
+            "text": " This ",
+            "tag": null
+          },
+          {
+            "text": "investigation replaces an optional current-issues example rather than extending",
+            "tag": "F"
+          },
+          {
+            "text": " the ",
+            "tag": null
+          },
+          {
+            "text": "unit.",
+            "tag": "F"
+          }
+        ]
+      },
+      "justification": {
+        "step2": "This proposal fills a specific gap rather than suggesting the unit ignores technology. Cybersecurity and influencer entrepreneurship are already listed, but the current-issues section does not develop the choice to adopt AI. The ABS (2026) reports AI use by 12% of businesses in 2024–25, which indicates uptake, not success. Students would rank alternatives against business priorities, challenge an option and defend a recommendation, not simply describe a fashionable technology. They account for staffing, customers, cost and privacy. Distinguishing adoption from effectiveness strengthens critical reasoning, while dating the figures addresses T4. The decision memo reinforces established ethical and business-performance judgements within existing teaching time.",
+        "step3": "The original unit identifies digital issues, but not an inquiry into whether a business should adopt AI. ABS (2026) reports AI use in 2024–25 by 12% of Australian businesses and 9% in retail trade; neither figure establishes effectiveness. Comparing the two makes source interpretation relevant to the chosen business. Acting as advisers, students weigh realistic alternatives, stakeholder consequences and a measurable success condition, combining critical evaluation with an engaging commercial problem. A short decision memo demonstrates judgement rather than enthusiasm for technology. Using the existing current-issues allocation, dated sources and no compulsory AI tool avoids a superficial or unnecessary addition.",
+        "count_step2": 104,
+        "count_step3": 101,
+        "segments": [
+          {
+            "text": "The original unit identifies digital issues,",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "but",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "not",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "an inquiry into whether",
+            "tag": "A"
+          },
+          {
+            "text": " a ",
+            "tag": null
+          },
+          {
+            "text": "business should",
+            "tag": "A"
+          },
+          {
+            "text": " adopt AI. ABS (2026) reports AI use ",
+            "tag": null
+          },
+          {
+            "text": "in",
+            "tag": "X"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "2024–25",
+            "tag": "A"
+          },
+          {
+            "text": " by 12% of ",
+            "tag": null
+          },
+          {
+            "text": "Australian",
+            "tag": "A"
+          },
+          {
+            "text": " businesses ",
+            "tag": null
+          },
+          {
+            "text": "and 9%",
+            "tag": "A"
+          },
+          {
+            "text": " in ",
+            "tag": null
+          },
+          {
+            "text": "retail trade; neither figure establishes effectiveness. Comparing the two makes source interpretation relevant to the chosen business. Acting as advisers, students weigh realistic alternatives, stakeholder consequences and a measurable success condition, combining critical evaluation with",
+            "tag": "A"
+          },
+          {
+            "text": " an ",
+            "tag": null
+          },
+          {
+            "text": "engaging commercial problem. A short",
+            "tag": "A"
+          },
+          {
+            "text": " decision memo ",
+            "tag": null
+          },
+          {
+            "text": "demonstrates judgement",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "rather",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "than",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "enthusiasm for technology. Using",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "the",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "existing",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "current-issues",
+            "tag": "A"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "allocation, dated",
+            "tag": "F"
+          },
+          {
+            "text": " ",
+            "tag": null
+          },
+          {
+            "text": "sources",
+            "tag": "A"
+          },
+          {
+            "text": " and ",
+            "tag": null
+          },
+          {
+            "text": "no compulsory AI tool avoids a superficial or unnecessary addition.",
+            "tag": "F"
+          }
+        ]
+      },
+      "anchors": [
+        [
+          "W5",
+          "Current issues: optional examples including “cybersecurity” and influencer entrepreneurship",
+          "Do not claim that technology topics are entirely absent."
+        ],
+        [
+          "O1",
+          "Current-issues research instructions / guiding questions",
+          "The opportunity is to develop explicit appraisal of dated statistical evidence."
+        ],
+        [
+          "O2",
+          "Current-issues discussion or investigation prompts",
+          "The new investigation compares business options, not merely technology descriptions."
+        ],
+        [
+          "T4",
+          "Current-issues examples referencing recent developments",
+          "Attach to a dated topical example; a general currency risk is not proof that the old content is inaccurate."
+        ]
+      ],
+      "reasoning": {
+        "A": "Retail vs national ABS comparison; test realistic options; specify evidence that would change a recommendation.",
+        "F": "Acknowledges existing digital topics; AI adoption is a bounded new investigation, not compulsory tool use or extra unit time."
+      }
+    }
+  }
+}
