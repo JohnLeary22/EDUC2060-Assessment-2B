@@ -9,10 +9,30 @@
   <link rel="stylesheet" href="css/styles.css">
   <script defer src="Steps/EDUC2060_Component1_Step4_Review.js"></script>
   <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/audio-player.js"></script>
 </head>
 <body>
   <header class="site-header">
     <a class="wordmark view-original-recede-text" href="#/methodology" aria-label="EDUC2060 presentation home">EDUC2060 <span>· Assessment 2B</span></a>
+    <div class="narration-player" id="narration-player" role="group" aria-label="Presentation narration">
+      <span class="narration-speaker" aria-hidden="true">
+        <svg viewBox="0 0 24 24" focusable="false"><path d="M4 10v4h4l5 4V6l-5 4H4Z"></path><path class="speaker-wave" d="M16 9a5 5 0 0 1 0 6m2-8a8 8 0 0 1 0 10"></path></svg>
+      </span>
+      <span class="narration-sound-wave" aria-hidden="true"><i></i><i></i><i></i></span>
+      <button class="narration-control narration-play" id="narration-play" type="button" aria-label="Play presentation narration">
+        <svg class="narration-icon-play" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 5.5v13l10-6.5-10-6.5Z"></path></svg>
+        <svg class="narration-icon-pause" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 5h4v14H7zM15 5h4v14h-4z"></path></svg>
+      </button>
+      <button class="narration-control narration-restart" id="narration-restart" type="button" aria-label="Restart presentation narration" title="Restart narration" disabled>
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 8.5A7 7 0 1 1 5 13m1.5-8v4h4"></path></svg>
+      </button>
+      <div class="narration-track">
+        <div class="narration-time" aria-hidden="true"><span id="narration-elapsed">0:00</span><span>/</span><span id="narration-duration">--:--</span></div>
+        <input id="narration-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="Seek through the presentation narration" aria-valuetext="0:00 elapsed; duration not available" disabled>
+      </div>
+      <span class="narration-status" id="narration-status" role="status" aria-live="polite"></span>
+      <audio class="narration-media" id="presentation-audio" src="Steps/Sequence%2001.mp4" preload="metadata" aria-hidden="true" tabindex="-1"></audio>
+    </div>
     <span class="header-note view-original-recede-text">Unit plan review</span>
     <button class="button button-secondary view-mode-toggle" type="button" aria-pressed="false">View Original Work</button>
   </header>

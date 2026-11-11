@@ -36,6 +36,45 @@ button, a, summary { -webkit-tap-highlight-color: transparent; }
 .wordmark span, .header-note, .site-footer { color: var(--muted); font-weight: 450; }
 .header-note { font-size: .88rem; }
 .view-mode-toggle { min-height: 38px; padding: 6px 12px; font-size: .84rem; white-space: nowrap; }
+.narration-player {
+  display: grid;
+  grid-template-columns: 20px 16px 32px 28px minmax(100px, 1fr);
+  align-items: center;
+  gap: 6px;
+  width: clamp(260px, 28vw, 330px);
+  min-width: 250px;
+  flex: 0 1 330px;
+  padding: 5px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--accent);
+  background: var(--paper);
+}
+.narration-speaker { display: grid; place-items: center; }
+.narration-speaker svg { display: block; width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.narration-sound-wave { display: flex; height: 20px; align-items: center; justify-content: center; gap: 2px; }
+.narration-sound-wave i { display: block; width: 2px; height: 5px; border-radius: 2px; background: currentColor; transform: scaleY(.65); }
+.narration-player.is-playing .narration-sound-wave i { animation: narration-pulse 620ms ease-in-out infinite alternate; }
+.narration-player.is-playing .narration-sound-wave i:nth-child(2) { animation-delay: 130ms; }
+.narration-player.is-playing .narration-sound-wave i:nth-child(3) { animation-delay: 260ms; }
+.narration-control { display: grid; width: 30px; height: 30px; place-items: center; padding: 0; border: 1px solid transparent; border-radius: 50%; color: var(--accent); background: transparent; cursor: pointer; }
+.narration-play { width: 32px; height: 32px; color: var(--paper); background: var(--accent); }
+.narration-control:hover:not(:disabled) { border-color: #cbd4d0; background-color: #edf1ed; }
+.narration-play:hover:not(:disabled) { background-color: #263d45; }
+.narration-control:disabled { opacity: .48; cursor: not-allowed; }
+.narration-control svg { display: block; width: 16px; height: 16px; fill: currentColor; stroke: none; }
+.narration-restart svg { fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.narration-icon-pause, .narration-player.is-playing .narration-icon-play { display: none; }
+.narration-player.is-playing .narration-icon-pause { display: block; }
+.narration-track { min-width: 0; }
+.narration-time { display: flex; justify-content: space-between; gap: 5px; color: var(--muted); font-size: .67rem; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.narration-track input[type="range"] { display: block; width: 100%; height: 13px; margin: 3px 0 0; accent-color: var(--accent); cursor: pointer; }
+.narration-track input[type="range"]:disabled { cursor: wait; }
+.narration-status { display: none; }
+.narration-player.has-error .narration-status { display: block; grid-column: 1 / -1; color: #8a4545; font-size: .72rem; line-height: 1.3; }
+.narration-media { display: none; }
+body.view-original-work .narration-player { filter: grayscale(1); }
+@keyframes narration-pulse { from { transform: scaleY(.55); } to { transform: scaleY(1.7); } }
 .page-shell { width: min(100% - 48px, 1320px); min-height: calc(100vh - 142px); margin: 0 auto; padding: 54px 0 84px; }
 .site-footer { padding-block: 22px; border-top: 1px solid #e5e4de; font-size: .8rem; }
 
@@ -320,7 +359,11 @@ body.view-original-work .view-mode-toggle[aria-pressed="true"] {
 }
 @media (max-width: 680px) {
   .site-header, .site-footer, .page-shell { width: min(100% - 32px, 1320px); }
-  .site-header { min-height: 64px; }
+  .site-header { min-height: 64px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 10px; padding-block: 10px; }
+  .wordmark { grid-column: 1; grid-row: 1; }
+  .narration-player { grid-column: 1 / -1; grid-row: 2; width: min(100%, 330px); min-width: 0; flex: none; justify-self: start; }
+  .header-note { grid-column: 1 / -1; grid-row: 3; justify-self: end; line-height: 1.2; }
+  .view-mode-toggle { grid-column: 2; grid-row: 1; justify-self: end; }
   .header-note { font-size: .78rem; }
   .page-shell { padding: 37px 0 60px; }
   .intro-block { margin-bottom: 27px; }
